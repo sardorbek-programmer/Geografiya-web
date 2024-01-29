@@ -1,0 +1,201 @@
+.body1{
+	padding: 0px;
+	margin: 0px;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Whole_world_-_land_and_oceans_12000.jpg/1280px-Whole_world_-_land_and_oceans_12000.jpg);
+}
+.body2{
+	padding: 0px;
+	margin: 0px;
+	background-color: aqua;
+}
+.img img{
+	width: 85px;
+	display: inline-block;
+}
+.img{
+	display: inline-block;
+}
+
+.bosh{
+	list-style: none;
+	display: inline-block;
+	margin-bottom: 80px;
+}
+
+.bosh ul{
+	display: inline-block;
+	padding: 0px;
+}
+
+
+.bosh ul li{
+	list-style: none;
+	text-decoration: inline-block;
+	display: inline-block;
+	letter-spacing: 1px;
+	padding: 3px;
+}
+.bosh ul li a{
+	text-decoration: none;
+	font-size: 15px;
+	font-family: revert;
+	display: inline-block;
+    color: limegreen;
+    padding: 10px;
+    letter-spacing: 2px;
+    vertical-align: middle;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-transform: uppercase;
+}
+
+.bosh ul li a:hover{
+	text-shadow: 3px 5px 6px yellow;
+	font-family: Cooper Black;
+	border: 5px dashed yellow;
+	border-radius: 10px 10px 10px 10px;
+	background-color: yellow;
+
+}
+.activ{
+	display: inline-block;
+	margin-left: 200px;
+	margin-bottom: 60px;
+}
+
+.activ .enter button{
+	width: 160px;
+	height: 60px;
+	background-color: #4259AD;
+	border-radius: 10px 10px 10px 10px;
+	font-size: 16px;
+}
+.activ .reg button{
+	width: 200px;
+	height: 60px;
+	background-color: #4259AD;
+	border-radius: 10px 10px 10px 10px;
+	font-size: 16px;
+}
+
+.activ .enter a button{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: white;
+}
+.activ .reg a button{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: white;
+}
+.activ .reg a{
+	color: yellow;
+	padding-bottom: 10px;
+}
+.activ .enter button:hover{
+	font-size: 20px;
+}
+.activ .reg button:hover{
+	font-size: 20px;
+}
+.hello{
+	text-transform: uppercase;
+	color: #B639FF;
+	font-family: Ravie;
+	letter-spacing: 2px;
+	padding: 8px;
+}
+.haqida{
+	text-transform: uppercase;
+	color: #B639FF;
+	font-family: dungeon;
+	letter-spacing: 2px;
+	padding: 8px;
+}
+.button{
+	font-size: 30px;
+	background-color: blue;
+	border-radius: 10px 10px 10px 10px;
+	margin: 20px;
+}
+.button .a{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	list-style: none;
+	padding: 10px;
+}
+.malumot{
+	color: #2512E6;
+	letter-spacing: 1px;
+	padding: 8px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.malumot img{
+	border-radius: 20px 10px;
+}
+.h1{
+	color: blueviolet;
+	letter-spacing: 3px;
+	padding: 3px;
+	font-family: sans-serif;
+	text-transform: uppercase;
+}
+
+img{
+	border-radius: 10px 5px 10px 5px;
+	width: 500px;
+	height: 435px;
+	padding: 50px;
+}
+.test h1{
+	color: #7E3DFC;
+	font-family: sans-serif;
+	letter-spacing: 2px;
+	padding: 3px;
+}
+.test label{
+	color: #D13EF0;
+	font-size: 25px;
+	letter-spacing: 2px;
+}
+.test input{
+	color: white;
+	font-size: 5px;
+}
+.vid iframe{
+	width: 1350px;
+	height: 600px;
+}
+.tugma button{
+	font-size: 40px;
+	background-color: blue;
+	border-radius: 5px 10px 5px 10px;
+	margin-top: 40px;
+	margin-left: none;
+	margin-right: none;
+	display: inline-block;
+}
+.tugma a{
+	font-size: 30px;
+	font-family: sans-serif;
+	color: white;
+	display: inline-block;
+	list-style: none;
+	text-decoration: none;
+}
+.coment form{
+	display: inline-block;
+	margin-top: 20px;
+}
+.coment label{
+	color: #F03BBE;
+	font-size: 30px;
+	font-family: sans-serif;
+	text-decoration: none;
+	display: inline-block;
+}
+.coment input{
+	font-size: 30px;
+}
